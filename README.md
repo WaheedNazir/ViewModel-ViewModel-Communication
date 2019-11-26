@@ -1,5 +1,5 @@
 # ViewModel-ViewModel-Communication
-A sample app using Kotlin, MVVM, ViewModels, LiveData, This show case show how we can communicate different ViewModels in FragmentPerAdapter/ on an Activity using ViewModel, LiveData and MVVM approach. 
+A sample app using Kotlin, MVVM, ViewModels, LiveData. This example shows that how we can communicate different ViewModels in FragmentPerAdapter/ on an Activity using ViewModel, LiveData and MVVM approach. 
 
 
 ### Demo
@@ -7,9 +7,9 @@ A sample app using Kotlin, MVVM, ViewModels, LiveData, This show case show how w
 
 ### Other samples of MVVM using Kotlin
 
-* [View-ViewModel-Interaction] - Sample of View and ViewModel Interaction.
-* [Communication-ActivityFragment-ViewModel] - Sample of complete MVVM Architecture
-* [Kotlin-MVVM-Architecture] - Sample of complete MVVM Architecture
+* [View-ViewModel-Interaction] - Sample of View and ViewModel Interaction/Communication.
+* [Communication-ActivityFragment-ViewModel] - Sample of communication between Activity and Fragment using ViewModel
+* [Kotlin-MVVM-Architecture] - Sample of complete MVVM Architecture using Dagger2, Kotlin, MediatorLiveData, Retrofit etc.
 
    [Kotlin-MVVM-Architecture]: <https://github.com/WaheedNazir/Kotlin-MVVM-Architecture>
    [View-ViewModel-Interaction]: <https://github.com/WaheedNazir/View-ViewModel-Interaction>
