@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ViewModel-ViewModel Communication</string>
+    <string name="tab_text_1">Basic</string>
+    <string name="tab_text_2">Contact</string>
+    <string name="tab_text_3">Qualifications</string>
+    <string name="tab_text_4">Complete</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="education">Education</string>
+    <string name="university">University</string>
+    <string name="name">Name:</string>
+    <string name="email_label">Email:</string>
+    <string name="phone_label">Phone:</string>
+    <string name="qualification_label">Qualification:</string>
+    <string name="university_label">University:</string>
+    <string name="clear_all">Clear All</string>
+</resources>
