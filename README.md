@@ -3,7 +3,7 @@ A sample app using Kotlin, MVVM, ViewModels, LiveData, This show case show how w
 
 
 ### Demo
-<img height="500px" src="https://github.com/WaheedNazir/ViewModel-ViewModel-Communication/blob/master/images/sample_demo.gif" />
+<img height="400px" src="https://github.com/WaheedNazir/ViewModel-ViewModel-Communication/blob/master/images/sample_demo.gif" />
 
 ### Other samples of MVVM using Kotlin
 
